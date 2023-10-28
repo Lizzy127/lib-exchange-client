@@ -9,4 +9,3 @@ Sign up for an exchange account at [https://exchange.blockchain.com](https://exc
 A JVM Artifact has been published to Maven Central and can be imported as
 ```
 compile group: 'com.blockchain', name: 'exchange-rest-api', version: '1.0.0'
-```
